@@ -2,7 +2,7 @@
 
 YOUR MUST ADD YOUR WALLET AT LINE 144 BEFORE RUNNING IT
 
-Install libraries if dont have with 'pip install'
+Install libraries with 'pip install'
 
 - pip install requests
 - pip install time
