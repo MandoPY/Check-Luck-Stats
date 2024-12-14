@@ -2,6 +2,13 @@
 
 YOUR MUST ADD YOUR WALLET AT LINE 144 BEFORE RUNNING IT
 
+Install libraries if dont have with 'pip install'
+
+- pip install requests
+- pip install time
+- pip install sys
+- pip install math
+
 This is a simple python code that checks for the values of:
 
 - Paid
